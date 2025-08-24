@@ -8,7 +8,7 @@ Gesture Capture: Flex sensors mounted on the thumb, index, and middle fingers de
 
 Wireless Transmission: Sensor readings are transmitted from the glove to a computer via serial communication.
 
-Machine Learning Integration: Multiple models (KNN, Random Forest, Naive Bayes, SVM, Logistic Regression, Decision Tree) are used to classify gestures.
+Machine Learning Integration: Multiple models (Random Forest, Naive Bayes, SVM) are used to classify gestures.
 
 Assistive Communication: Converts recognized signs into text output, enabling easier interaction.
 
