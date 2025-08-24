@@ -1,4 +1,4 @@
-Sign Language Interpreter Glove
+#Sign Language Interpreter Glove
 
 A wearable system that translates sign language gestures into text using flex sensors, Arduino Uno, and machine learning models. The glove is designed to assist communication for the hearing and speech impaired by capturing hand movements and predicting signs in real time.
 
