@@ -42,13 +42,6 @@ Use trained models to classify signs in real time.
 
 Display predicted sign as text output.
 
-## Repository Structure
-├── Arduino_Code/         # Arduino sketches for flex sensor data collection
-├── Data/                 # Collected sensor datasets
-├── ML_Models/            # Machine learning model training & evaluation scripts
-├── Results/              # Model accuracy reports, graphs, confusion matrices
-└── README.md             # Project documentation
-
 ## Results
 
 Successfully captured flex sensor readings from multiple fingers.
